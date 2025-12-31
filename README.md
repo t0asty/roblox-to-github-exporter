@@ -35,12 +35,12 @@ If you haven't installed Lune yet:
 curl -fsSL https://lune.rocks/install.sh | sh
 ```
 
-Or see: [https://lune.rocks](https://lune.rocks)
+Or see: [https://lune-org.github.io/docs/](https://lune-org.github.io/docs/)
 
 ### 2. Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/roblox-place-exporter.git
+git clone https://github.com/t0asty/roblox-to-github-exporter.git
 cd roblox-place-exporter
 ```
 
