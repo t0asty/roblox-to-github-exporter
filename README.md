@@ -129,32 +129,6 @@ exported/
 
 ---
 
-## 🛠 Customization
-
-You can easily customize:
-
-* ignore certain services
-* merge scripts into a single folder
-* flatten hierarchy
-* add metadata / `.meta.json`
-* convert entire game back into a `.rbxl`
-
-Just edit the `exportInstance()` function in `export_game.luau`.
-
-I can help you add options too (flags like `--only-scripts`, `--ignore Lighting`, etc.).
-
----
-
-## 📷 Screenshots (optional)
-
-You can add screenshots like:
-
-* 🖼 File structure in VSCode
-* 🖼 Diff view of script changes
-* 🖼 Re-importing the models
-
----
-
 ## 📜 License
 
 Apache 2.0 — free to use and modify.
