@@ -2,12 +2,12 @@
 
 A small command-line tool that converts a **Roblox `.rbxl/.rbxlx` place file** into a **Git-friendly folder structure**.
 
-✔ Extracts full hierarchy
-✔ Exports scripts as `.lua`
-✔ Exports instances as `.rbxmx`
-✔ Mirrors folders 1:1
-✔ Works on any place file
-✔ Perfect for version control / team workflows
+✔ Extracts full hierarchy  
+✔ Exports scripts as `.lua`  
+✔ Exports instances as `.rbxmx`  
+✔ Mirrors folders 1:1  
+✔ Works on any place file  
+✔ Perfect for version control / team workflows  
 
 Built with **Lune** and **@lune/roblox**.
 
@@ -157,7 +157,7 @@ You can add screenshots like:
 
 ## 📜 License
 
-MIT — free to use and modify.
+Apache 2.0 — free to use and modify.
 
 ---
 
@@ -170,14 +170,3 @@ Feel free to open issues for new features — e.g.:
 * export Terrain separately
 * add JSON metadata per instance
 * add watch mode
-
----
-
-If you want, I can also create:
-
-* 💻 a cleaner CLI (`export` command with flags)
-* 🧪 unit tests
-* 🔄 a reverse importer (git → roblox .rbxl)
-* 📦 a proper Lune package (`lune add roblox-exporter`)
-
-Just tell me!
